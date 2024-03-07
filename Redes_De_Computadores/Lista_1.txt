@@ -1,0 +1,31 @@
+**Introdução a Redes:**
+
+1. Defina o conceito de rede de computadores e explique sua importância na computação moderna.
+2. Liste e descreva brevemente os principais componentes de uma rede de computadores.
+3. Explique a diferença entre LAN, MAN e WAN e forneça exemplos de cada uma.
+4. Descreva os benefícios e desafios de se conectar dispositivos em uma rede.
+5. Quais são os principais objetivos das redes de computadores? Explique cada um deles.
+
+**Topologia de Redes:**
+
+6. Explique o que é uma topologia de rede e liste os tipos mais comuns.
+7. Descreva a topologia de barramento, anel, estrela e malha. Quais são suas vantagens e desvantagens?
+8. Ilustre cada tipo de topologia de rede e identifique os dispositivos presentes em cada uma delas.
+9. Compare e contraste topologias físicas e lógicas de rede. Dê exemplos de cada uma.
+10. Como você escolheria a topologia de rede mais adequada para uma organização de pequeno porte? E para uma grande empresa? Justifique suas respostas.
+
+**Distribuição Geográfica em LAN, MAN, WAN:**
+
+11. Defina o que é uma LAN (Rede de Área Local). Quais são suas características principais?
+12. Explique o conceito de MAN (Rede Metropolitana) e forneça exemplos de sua utilização.
+13. Descreva as características de uma WAN (Rede de Área Ampla). Quais são os protocolos comuns usados em WANs?
+14. Compare as principais diferenças entre LAN, MAN e WAN em termos de alcance geográfico, velocidade e tecnologias utilizadas.
+15. Descreva um cenário em que seria vantajoso usar uma WAN em vez de uma MAN ou LAN. Discuta os fatores envolvidos na escolha.
+
+**Exercícios Práticos:**
+
+16. Projete uma rede LAN para uma pequena empresa com cinco computadores. Inclua dispositivos de rede e cabos necessários.
+17. Desenvolva um plano de endereçamento IP para a rede LAN projetada no exercício anterior.
+18. Pesquise e apresente exemplos de MANs e WANs do mundo real, destacando suas características e aplicações.
+19. Simule uma conexão de rede WAN entre duas localidades geograficamente distantes. Considere fatores como latência, largura de banda e confiabilidade.
+20. Configure um laboratório virtual usando software de simulação de rede para implementar diferentes topologias de rede e explore suas características e desempenho.
