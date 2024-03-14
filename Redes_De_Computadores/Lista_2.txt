@@ -1,0 +1,25 @@
+Modelo OSI:
+a. Explique brevemente os sete camadas do modelo OSI.
+b. Qual é a função da camada de aplicação no modelo OSI? Dê exemplos de protocolos que operam nessa camada.
+c. Quais são as principais diferenças entre os modelos OSI e TCP/IP?
+
+Modelo TCP/IP:
+a. Descreva as quatro camadas do modelo TCP/IP e suas principais funções.
+b. Compare as camadas do modelo TCP/IP com as camadas correspondentes do modelo OSI.
+c. Por que o modelo TCP/IP é amplamente adotado em comparação com o modelo OSI?
+
+Relação entre OSI e TCP/IP:
+a. Como as camadas do modelo OSI se relacionam com as camadas do modelo TCP/IP?
+b. Por que a correspondência exata entre os modelos OSI e TCP/IP nem sempre é direta?
+c. Dê exemplos de como os protocolos em cada modelo OSI e TCP/IP interagem entre si.
+
+Protocolos:
+a. Liste pelo menos três protocolos associados a cada uma das camadas do modelo OSI e do modelo TCP/IP.
+b. Explique o papel do protocolo HTTP na camada de aplicação do modelo OSI e do modelo TCP/IP.
+c. Qual é a função do protocolo TCP e do protocolo UDP nas camadas de transporte do modelo OSI e do modelo TCP/IP, respectivamente?
+
+Encapsulamento e Desencapsulamento:
+a. Descreva o processo de encapsulamento de dados em uma comunicação de rede, usando os modelos OSI e TCP/IP como referência.
+b. Como o desencapsulamento é realizado em cada modelo durante a comunicação entre dispositivos de rede?
+c. Quais são os benefícios do encapsulamento e desencapsulamento na comunicação de rede?
+
