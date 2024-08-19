@@ -1,0 +1,1 @@
+/pub		*(ro,fsid=1,insecure,no_subtree_check)
